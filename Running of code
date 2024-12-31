@@ -1,0 +1,2 @@
+gcc -0 main main.c	
+./main
